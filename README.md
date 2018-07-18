@@ -4,7 +4,7 @@
 
 Just like a tittle , just 1 file you can doing CRUD :) 
 <hr>
-<p> I'm using XAMPP, just import database with name : 'onefile' . </p>
+<p> I'm using XAMPP, just import database with name : <b>onefile</b> . </p>
 
 
 # https://github.com/charisZx/ #
