@@ -1,8 +1,10 @@
 # CRUD-onefile
 <hr>
-<center> <h1> CRUD With 1 file PHP </h1> </center>
+<center> <h2> CRUD With 1 file PHP </h2> </center>
 
 Just like a tittle , just 1 file you can doing CRUD :) 
 <hr>
+<p> I'm using XAMPP, just import database with name : 'onefile' . </p>
+
 
 # https://github.com/charisZx/ #
